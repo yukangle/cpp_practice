@@ -6,6 +6,9 @@ using std::cout;
 using std::cerr;
 using std::endl;
 
+using kangleyu::Sales_item;
+using kangleyu::isbn_mismatch;
+
 int main()
 {
     Sales_item item1, item2, sum;
